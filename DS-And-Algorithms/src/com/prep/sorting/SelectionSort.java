@@ -6,11 +6,11 @@ public class SelectionSort {
 
 	public static void main(String[] args) {
 		int[] unsortedArr = {12,2,54,78,23,37,21,3,23};
-		sort(unsortedArr);
+		selectionSort(unsortedArr);
 		System.out.println(Arrays.toString(unsortedArr));
 	}
 
-	private static void sort(int[] unsortedArr) {
+	private static void selectionSort(int[] unsortedArr) {
 		if (unsortedArr != null && unsortedArr.length>0) {
 			for (int i = 0; i < unsortedArr.length; i++) {
 				int imin = i;
