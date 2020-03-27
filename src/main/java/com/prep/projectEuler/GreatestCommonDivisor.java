@@ -1,4 +1,4 @@
-package com.prep.project.euler;
+package com.prep.projectEuler;
 
 public class GreatestCommonDivisor {
 

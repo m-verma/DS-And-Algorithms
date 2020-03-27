@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BubbleSort<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.dataStructureAndAlgos.sorting.BubbleSort",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionSort<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.dataStructureAndAlgos.sorting.InsertionSort",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SelectionSort<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.dataStructureAndAlgos.sorting.SelectionSort",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BST<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.dataStructureAndAlgos.trees.BST",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CellCompete<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.projectEuler.CellCompete",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MultipleOf3And5<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.projectEuler.MultipleOf3And5",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumOfWaysToDecode<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.projectEuler.NumOfWaysToDecode",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem_10_Summation_of_primes<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.projectEuler.Problem_10_Summation_of_primes",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem_5_SumSquareDifference<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.projectEuler.Problem_5_SumSquareDifference",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem_7_10001stPrime<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.projectEuler.Problem_7_10001stPrime",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem_8_Largest_Product_In_A_Series<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.projectEuler.Problem_8_Largest_Product_In_A_Series",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Problem_9_Special_Pythagorean_Triplet<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.projectEuler.Problem_9_Special_Pythagorean_Triplet",
+            "projectName": "coding-excercises_ecd80da7"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfevenFibonacciNumbers<coding-excercises_ecd80da7>",
+            "request": "launch",
+            "mainClass": "com.prep.projectEuler.SumOfevenFibonacciNumbers",
+            "projectName": "coding-excercises_ecd80da7"
+        }
+    ]
+}
